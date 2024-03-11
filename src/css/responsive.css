@@ -1,0 +1,17 @@
+@media (max-width: 476px) {
+  .container {
+    justify-content: center;
+    margin: 0 auto;
+    gap: 3rem;
+    flex-direction: column;
+  }
+
+  .description h1 {
+    text-align: center;
+  }
+  .description p {
+    text-align: center;
+  }
+
+}
+
